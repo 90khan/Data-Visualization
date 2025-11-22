@@ -1,7 +1,3 @@
-Harika! O zaman sana **Data Visualization projen için ultra-profesyonel, görsel ve dikkat çekici bir README** tasarlayacağım. Bu README, GitHub üzerinde hem estetik hem de bilgilendirici olacak ve projelerini öne çıkaracak. İşte önerim:
-
----
-
 # 📊 Ultimate Data Visualization Projects
 
 ![Data Visualization Banner](https://user-images.githubusercontent.com/your-username/banner-image.png)
@@ -52,14 +48,3 @@ Welcome to my **Data Visualization** repository! This collection features **educ
 | **Dynamic Visualizations** | Explore data through interactive plots and dashboards |
 | **Data Storytelling**      | Learn how to convey insights effectively              |
 | **Portfolio Projects**     | Real-world projects to showcase your skills           |
-
-## 🌟 Showcase
-
-Here are a few sample visualizations from the repository:
-
-| Example                | Screenshot                                                                             |
-| ---------------------- | -------------------------------------------------------------------------------------- |
-| COVID-19 Heatmap       | ![covid](https://user-images.githubusercontent.com/your-username/covid-heatmap.png)    |
-| Stock Market Dashboard | ![stocks](https://user-images.githubusercontent.com/your-username/stock-dashboard.png) |
-| Social Media Trends    | ![social](https://user-images.githubusercontent.com/your-username/social-trends.png)   |
-
