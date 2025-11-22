@@ -1,7 +1,5 @@
 # 📊 Ultimate Data Visualization Projects
 
-![Data Visualization Banner](https://user-images.githubusercontent.com/your-username/banner-image.png)
-
 Welcome to my **Data Visualization** repository! This collection features **educational notebooks and hands-on projects** that teach you how to **turn raw data into compelling, interactive, and insightful visual stories**. Perfect for beginners and experienced data enthusiasts alike.
 
 ---
